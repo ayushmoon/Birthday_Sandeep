@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    font-family: 'poppins',sans-serif;
+
+
+    /* background-image: url('pxfuel (3).jpg');
+    background-position: center;
+    background-repeat: no-repeat; */
+
+}
+
+
+header{
+    height: 180px;
+    width: auto;
+    background: #d68282;
+    margin: 20px;
+    box-shadow: 10px 10px black;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+
+}
+.Banner{
+    margin: 0;
+    padding-top: 35px;
+    color: rgb(82, 149, 207);
+    text-shadow: 3px 3px 3px black;
+    font-size: 42px;
+
+}
+.old_memories{
+    text-shadow: 3px 3px 3px black;
+
+    height: 60px;
+    width: 430px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    background: #5295cf;
+    color: #ff00b3;
+    transition: .5s;
+    border-width: 3px;
+    border-color: #52b8cf;
+
+    /* text-align: center; */
+
+}
+.old_memories:hover{
+    background: #ff00b3;
+    color: #5295cf;
+    box-shadow: 2px 2px black;
+    transition: .5s;
+
+}
+.buttons{
+    padding-top: 50px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 300px;
+    width: auto;
+    background: #52b8cf;
+    
+    /* background-image: url('Happy_Birthday.jpg');
+    background-position: ; */
+    box-shadow: 10px 10px;
+}
+.std_photo{
+    position: relative;
+    left: 500px ;
+    bottom: 85px;
+    height: 170px;
+    width: 100px;
+    border-radius: 20px;
+}
+.quiz{
+    height: 50px;
+    width: 190px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    background: #5295cf;
+    color: #ff00b3;
+    transition: .5s;
+    text-shadow: 3px 3px 3px black;
+    border-width: 3px;
+    border-color: #52b8cf;
+
+    
+
+}
+.quiz:hover{
+    background: #ff00b3;
+    color: #5295cf;
+    transition: .5s;
+    box-shadow: 3px 3px 3px black;
+    border-width: 3px;
+    border-color: #3c91db;
+
+}
+
+.last_line{
+    font-size: 30px;
+    font-weight: 800;
+    text-shadow: 3px 3px 3px blue;
+    color: #fc0082;
+
+
+}
+.balloon_img1{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    right: 500px;
+    bottom: 190px;
+}
+
+.balloon_img2{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    left: 500px;
+    bottom: 190px;
+}
+.jokes{
+    position: relative;
+    bottom: 140px;
+    height: 40px;
+    width: 350px;
+    color: crimson;
+    background: cornflowerblue;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 15px;
+    text-shadow: 2px 2px 2px #ff00b3;
+
+}
+.Jokes{
+    position: relative;
+    bottom: 100px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.cake{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    right: 530px;
+    bottom: 100px;
+}
+.para-joke{
+    text-align: left;
+}
+.clock{
+    position: relative;
+    bottom: 100px;
+    text-shadow: 3px 3px 3px #5295cf;
+    color: #ff00b3;
+}
